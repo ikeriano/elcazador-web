@@ -120,6 +120,6 @@ html.vertical .tabla{width:40vw;top:14vh;bottom:auto;height:46vh}html.vertical .
 .cl-win .clmsg,.cl-lose .clmsg{top:48%}
 .clbtns{position:absolute;left:0;right:0;bottom:12vh;display:flex;gap:3vw;justify-content:center}
 .cltimer{position:absolute;right:4vw;top:12vh;width:12vw;min-width:90px;height:12vh;background:url(../gfx/bg_tcio_timer_arrow.png) center/100% 100% no-repeat;display:flex;align-items:center;justify-content:center;font:900 clamp(26px,4vw,48px) Anton}
-.cl-tc .tczona{right:4vw;left:4vw;bottom:6vh}
+.cl-tc .tczona{right:28vw;left:3vw;bottom:6vh}
 #tabla.clcentro{left:50%;right:auto;transform:translateX(-50%);width:30vw;z-index:3}
 .cl-fc~.fcbox,#fcbox{z-index:3}
